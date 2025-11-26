@@ -1,23 +1,23 @@
 skladnia elementow dokumentu rST
 ================================
 
-naglowki (poziomy 1-4)
-----------------------
+.. naglowki (poziomy 1-4)
+..  ----------------------
 
-naglowek 1:
-===========
+..  naglowek 1:
+..  ===========
 
-naglowek 2:
------------
+..  naglowek 2:
+..  -----------
 
-naglowek 3:
-~~~~~~~~~~~
+  naglowek 3:
+  ~~~~~~~~~~~
 
-naglowek 4:
-^^^^^^^^^^^
+  naglowek 4:
+  ^^^^^^^^^^^
 
-akapit tekstowy
-----------------
+ akapit tekstowy
+ ----------------
 
 to jest zwykly akapit tekstu w rst
 
@@ -35,7 +35,7 @@ akapit informacyjny
 kod
 ---
 
-kod liniowy: ``print("baka!")``
+kod liniowy: ``print("cos!")``
 
 kod blokowy:
 
