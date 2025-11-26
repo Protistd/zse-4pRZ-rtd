@@ -1,4 +1,4 @@
-skladnia elementow dokumentu rST
+Skladnia
 ================================
 
 .. naglowki (poziomy 1-4)
