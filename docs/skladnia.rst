@@ -1,14 +1,14 @@
 Skladnia
 ================================
 
- naglowki (poziomy 1-4)
+  naglowki (poziomy 1-4)
   ----------------------
 
   naglowek 1:
   ===========
 
   naglowek 2:
- -----------
+  -----------
 
   naglowek 3:
   ~~~~~~~~~~~
