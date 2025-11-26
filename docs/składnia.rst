@@ -84,9 +84,8 @@ obraz
    :alt: opis alternatywny obrazka
    :align: center
    :figwidth: 300px
-
-   podpis obrazka (figcaption)
-
+   :figcaption: podpis 
+  
 tabela
 ------
 
