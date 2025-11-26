@@ -2,7 +2,7 @@ dokumentacja projektu
 ==============================
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :caption: spis treści
 
    skladnia
