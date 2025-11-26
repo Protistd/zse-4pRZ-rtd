@@ -5,5 +5,5 @@ dokumentacja projektu
    :maxdepth: 2
    :caption: spis treści
 
-   składnia
+   skladnia
    autor
