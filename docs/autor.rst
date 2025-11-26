@@ -1,1 +1,4 @@
-Rafał Zagórowski
+o autorze
+=========
+
+Rafał Zagórowski 4tp
